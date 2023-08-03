@@ -1,0 +1,8 @@
+.sidebar-link {
+  width: 100%;
+}
+
+.sidebar-link:hover span {
+  background-color: #0d6efd;
+  color: #ffffff;
+}
