@@ -2,7 +2,11 @@
   width: 100%;
 }
 
-.sidebar-link:hover span {
+.sidebar-link:hover {
   background-color: #0d6efd;
+  color: #ffffff;
+}
+
+.sidebar-link:hover span {
   color: #ffffff;
 }
